@@ -1,0 +1,94 @@
+# Core AI/ML Libraries
+crewai>=0.1.0
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-anthropic>=0.0.2
+langchain-community>=0.0.10
+openai>=1.6.1
+anthropic>=0.8.1
+
+# DSPy for prompt optimization
+dspy-ai>=2.5.43
+
+# Web Framework and APIs
+fastapi==0.108.0
+uvicorn[standard]==0.25.0
+websockets==12.0
+pydantic==2.5.3
+python-multipart==0.0.6
+
+# Streamlit for UI
+streamlit==1.29.0
+streamlit-chat==0.1.1
+
+# Data Visualization
+plotly==5.18.0
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Search and Research Tools
+duckduckgo-search==4.1.0
+brave-search==0.1.0
+google-api-python-client==2.111.0
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.2
+scikit-learn==1.3.2
+
+# Async and Concurrent Processing
+aiohttp==3.9.1
+asyncio==3.4.3
+aiofiles==23.2.1
+
+# Environment and Configuration
+python-dotenv==1.0.0
+pyyaml==6.0.1
+
+# Utilities
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==5.0.0
+python-dateutil==2.8.2
+pytz==2023.3
+
+# Development Tools (optional, but recommended)
+pytest==7.4.3
+pytest-asyncio==0.21.1
+black==23.12.1
+flake8==7.0.0
+mypy==1.8.0
+
+# Logging and Monitoring
+loguru==0.7.2
+rich==13.7.0
+
+# Caching
+diskcache==5.6.3
+redis==5.0.1  # Optional, for production caching
+
+# Database (optional, for production)
+sqlalchemy==2.0.25
+alembic==1.13.1
+psycopg2-binary==2.9.9  # For PostgreSQL
+
+# Security
+cryptography==41.0.7
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+
+# Rate Limiting
+slowapi==0.1.9
+
+# JSON handling
+orjson==3.9.10
+
+# Text Processing
+nltk==3.8.1
+spacy==3.7.2
+textblob==0.17.1
+
+# Markdown Processing
+markdown==3.5.1
+pymdown-extensions==10.5
+#built with love

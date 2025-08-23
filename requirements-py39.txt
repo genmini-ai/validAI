@@ -1,0 +1,46 @@
+# Python 3.9 compatible requirements for ReqDefender
+
+# Core AI/ML Libraries (Python 3.9 compatible versions)
+langchain==0.0.354
+langchain-openai==0.0.8
+langchain-anthropic==0.1.19
+langchain-community==0.0.38
+openai==1.6.1
+anthropic==0.18.1
+
+# Web Framework and APIs
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+websockets==11.0.3
+pydantic==2.5.3
+python-multipart==0.0.6
+
+# Streamlit for UI
+streamlit==1.29.0
+plotly==5.17.0
+
+# Search Tools
+duckduckgo-search==3.9.6
+
+# Data Processing
+pandas==2.0.3
+numpy==1.24.4
+
+# Async Processing
+aiohttp==3.9.1
+aiofiles==23.2.1
+
+# Environment and Configuration
+python-dotenv==1.0.0
+pyyaml==6.0.1
+
+# Utilities
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.4
+python-dateutil==2.8.2
+
+# Optional but useful
+rich==13.7.0
+loguru==0.7.2
+#built with love
