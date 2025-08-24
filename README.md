@@ -12,6 +12,11 @@
 
 ## 🚀 Quick Start - Multi-Round Debates
 
+### 📸 Demo Screenshot
+
+![ReqDefender Demo](demo-screenshot.png)
+*ReqDefender analyzing a hydrogen-powered aircraft requirement with multi-round debate - REJECTED with 80% confidence in 29 seconds*
+
 ### 30-Second Demo
 
 ```bash
