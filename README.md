@@ -14,8 +14,13 @@
 
 ### 📸 Demo Screenshot
 
-![ReqDefender Demo](demo-screenshot.png)
-*ReqDefender analyzing a hydrogen-powered aircraft requirement with multi-round debate - REJECTED with 80% confidence in 29 seconds*
+<div align="center">
+
+![ReqDefender Demo Interface](demo-screenshot.png)
+
+**Live Demo:** *Hydrogen-powered aircraft requirement analysis - REJECTED with 80% confidence in 29 seconds*
+
+</div>
 
 ### 30-Second Demo
 
